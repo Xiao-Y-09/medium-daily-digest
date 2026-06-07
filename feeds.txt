@@ -1,1 +1,11 @@
+# ---- 话题 tag ----
 https://medium.com/feed/tag/large-language-models
+https://medium.com/feed/tag/llm
+https://medium.com/feed/tag/ai-agents
+https://medium.com/feed/tag/rag
+https://medium.com/feed/tag/machine-learning
+https://medium.com/feed/tag/system-design
+
+# ---- publication 刊物 ----
+https://medium.com/feed/towards-data-science
+https://medium.com/feed/data-science-collective

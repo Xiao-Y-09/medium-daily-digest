@@ -1,5 +1,8 @@
-.env
+﻿.env
 venv/
 seen.db
 __pycache__/
 *.pyc
+reader_profile.md
+0606/
+markdown.md
